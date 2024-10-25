@@ -1,0 +1,1 @@
+Esse projeto visa criar um programa de simulador de circuitos, mais simples possivel, utilizando no maximo 4 componentes eletrônicos, como uma fonte de tensão, resistor, capacitor e indutor. e o programa fornecera tensão e corrente em cada componente passivo.(ou um programa que só calcule a impedância do circuito)
