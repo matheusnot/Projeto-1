@@ -54,6 +54,9 @@ switch = ctk.CTkSwitch(master=janela,
 
 switch.place(x=1156, y=608)
 
+def capacitor():
+    pass
+
 def tela_1():
     destroy()
     frame.place(x=10, y=10)
